@@ -1,0 +1,14 @@
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/bin/Debug/net8.0/Polymorphism
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/bin/Debug/net8.0/Polymorphism.deps.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/bin/Debug/net8.0/Polymorphism.runtimeconfig.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/bin/Debug/net8.0/Polymorphism.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/bin/Debug/net8.0/Polymorphism.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/Polymorphism.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/refint/Polymorphism.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/Polymorphism.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/Polymorphism.genruntimeconfig.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Polymorphism/obj/Debug/net8.0/ref/Polymorphism.dll

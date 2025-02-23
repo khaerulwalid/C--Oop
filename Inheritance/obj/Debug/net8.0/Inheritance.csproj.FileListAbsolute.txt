@@ -1,0 +1,14 @@
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

@@ -1,0 +1,14 @@
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfo.cs
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/bin/Debug/net8.0/AbstractClass
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/bin/Debug/net8.0/AbstractClass.deps.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/bin/Debug/net8.0/AbstractClass.runtimeconfig.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/bin/Debug/net8.0/AbstractClass.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/bin/Debug/net8.0/AbstractClass.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/AbstractClass.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/refint/AbstractClass.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/AbstractClass.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/AbstractClass.genruntimeconfig.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/AbstractClass/obj/Debug/net8.0/ref/AbstractClass.dll

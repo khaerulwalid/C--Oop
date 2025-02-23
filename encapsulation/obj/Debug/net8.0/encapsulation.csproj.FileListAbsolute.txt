@@ -1,0 +1,14 @@
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/bin/Debug/net8.0/encapsulation
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/bin/Debug/net8.0/encapsulation.deps.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/bin/Debug/net8.0/encapsulation.runtimeconfig.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/bin/Debug/net8.0/encapsulation.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/bin/Debug/net8.0/encapsulation.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/encapsulation.AssemblyInfoInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/encapsulation.AssemblyInfo.cs
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/encapsulation.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/refint/encapsulation.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/encapsulation.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/encapsulation.genruntimeconfig.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/encapsulation/obj/Debug/net8.0/ref/encapsulation.dll

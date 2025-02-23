@@ -1,0 +1,14 @@
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ClassAndObjectCreation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ClassAndObjectCreation.AssemblyInfoInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ClassAndObjectCreation.AssemblyInfo.cs
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ClassAndObjectCreation.csproj.CoreCompileInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/bin/Debug/net8.0/ClassAndObjectCreation
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/bin/Debug/net8.0/ClassAndObjectCreation.deps.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/bin/Debug/net8.0/ClassAndObjectCreation.runtimeconfig.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/bin/Debug/net8.0/ClassAndObjectCreation.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/bin/Debug/net8.0/ClassAndObjectCreation.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ClassAndObjectCreation.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/refint/ClassAndObjectCreation.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ClassAndObjectCreation.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ClassAndObjectCreation.genruntimeconfig.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/ClassAndObjectCreation/obj/Debug/net8.0/ref/ClassAndObjectCreation.dll

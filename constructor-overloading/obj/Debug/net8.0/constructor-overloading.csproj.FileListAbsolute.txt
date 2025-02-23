@@ -1,0 +1,14 @@
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/constructor-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/constructor-overloading.AssemblyInfoInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/constructor-overloading.AssemblyInfo.cs
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/constructor-overloading.csproj.CoreCompileInputs.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/bin/Debug/net8.0/constructor-overloading
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/bin/Debug/net8.0/constructor-overloading.deps.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/bin/Debug/net8.0/constructor-overloading.runtimeconfig.json
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/bin/Debug/net8.0/constructor-overloading.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/bin/Debug/net8.0/constructor-overloading.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/constructor-overloading.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/refint/constructor-overloading.dll
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/constructor-overloading.pdb
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/constructor-overloading.genruntimeconfig.cache
+/Users/qpay/Documents/DotNet/OOP/LatihanSoalOop/constructor-overloading/obj/Debug/net8.0/ref/constructor-overloading.dll
